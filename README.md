@@ -2,8 +2,8 @@
 
 The following are maps for field trip to measure tree canopy heights:
 
-![Kentucky Counties](./maps/Ky-landcover.jpg)   
-Kentucky counties with selected land cover types – [Download geospatial PDF](./maps/Ky-landcover.pdf)
+![Kentucky Counties](./maps/kyLandcover.jpg)   
+Kentucky counties with selected land cover types – [Download geospatial PDF](./maps/kyLandcover.pdf)
 
 ![UK Campus canopy model](./maps/CanopyHeightModel.jpg)   
 UK Central Campus canopy model – [Download geospatial PDF](./maps/CanopyHeightModel.pdf)
